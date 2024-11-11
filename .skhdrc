@@ -1,0 +1,4 @@
+alt - t : osascript -e 'tell application "Terminal" to activate'
+alt - m : open /Applications/Messenger.app
+alt - v : open /Applications/Visual\ Studio\ Code.app
+alt - c : open /Applications/Google\ Chrome.app

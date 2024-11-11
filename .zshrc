@@ -140,3 +140,7 @@ HOMEBREW_NO_AUTO_UPDATE=1
 # ---- Eza (better ls) -----
 
 alias ls="eza --color=always --long --git --no-filesize --no-time --no-user --no-permissions"
+
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)
